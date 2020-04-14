@@ -1,24 +1,8 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# cra-ts-ie11-starter
+# react-hookform-starter
 
-Starter for [Create React App](https://github.com/facebook/create-react-app) on TypeScript which support Internet Explorer 11.
-
-This project created with :
-
-```
-npx create-react-app cra-ts-ie11-starter --template typescript
-```
-
-Added ie11 support:
-
-```
-    npm install react-app-polyfill
-```
-
-Added "import 'react-app-polyfill/ie11';" to index.tsx
-
-Also unnecessary files deleted.
+Starter for react-hook-form.
 
 ## Feature tags
 
@@ -27,17 +11,7 @@ Also unnecessary files deleted.
 - starter
 - template
 - typescript
-
----
-
-## Parents
-
-[-**typescript**](https://github.com/softspiders/cra-ie11-starter)
-
-## Children
-
-- [+**styled-components, styled-components.theme-providers**](https://github.com/softspiders/styledcomponents-ts-starter)
-- [+**context-api**](https://github.com/softspiders/contextapi-ts-starter)
+- react-hook-form
 
 ---
 
