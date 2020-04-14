@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hookform-starter/static/css/main.8c21a527.chunk.css",
+    "main.js": "/react-hookform-starter/static/js/main.f30525b8.chunk.js",
+    "main.js.map": "/react-hookform-starter/static/js/main.f30525b8.chunk.js.map",
+    "runtime-main.js": "/react-hookform-starter/static/js/runtime-main.79a8ea62.js",
+    "runtime-main.js.map": "/react-hookform-starter/static/js/runtime-main.79a8ea62.js.map",
+    "static/js/2.8fff5d74.chunk.js": "/react-hookform-starter/static/js/2.8fff5d74.chunk.js",
+    "static/js/2.8fff5d74.chunk.js.map": "/react-hookform-starter/static/js/2.8fff5d74.chunk.js.map",
+    "index.html": "/react-hookform-starter/index.html",
+    "precache-manifest.0e765aaa6c750c806f62585efd614a7a.js": "/react-hookform-starter/precache-manifest.0e765aaa6c750c806f62585efd614a7a.js",
+    "service-worker.js": "/react-hookform-starter/service-worker.js",
+    "static/css/main.8c21a527.chunk.css.map": "/react-hookform-starter/static/css/main.8c21a527.chunk.css.map",
+    "static/js/2.8fff5d74.chunk.js.LICENSE.txt": "/react-hookform-starter/static/js/2.8fff5d74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79a8ea62.js",
+    "static/js/2.8fff5d74.chunk.js",
+    "static/css/main.8c21a527.chunk.css",
+    "static/js/main.f30525b8.chunk.js"
+  ]
+}
