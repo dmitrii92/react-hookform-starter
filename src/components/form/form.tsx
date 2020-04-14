@@ -16,7 +16,7 @@ export const Form = () => {
   const onSubmit = handleSubmit(({ firstName, lastName, age, email }) => {
     console.log(firstName, lastName, age);
     window.alert(`firstName: ${firstName}, lastName: ${lastName}, age: ${age}, email: ${email} `);
-  })
+  });
 
   return (
     <form onSubmit={onSubmit}>
