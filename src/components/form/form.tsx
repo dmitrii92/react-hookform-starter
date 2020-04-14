@@ -38,6 +38,7 @@ export const Form = () => {
             }
           })}
         />
+        {errors.lastName && <p>{errors.lastName.message}</p>}
       </div>
 
       <div>
@@ -58,6 +59,7 @@ export const Form = () => {
           })}
           placeholder="mailAddress1@somemail.com"
         />
+        {errors.email && <p>{errors.email.message}</p>}
       </div>
 
       <input type="submit" />
