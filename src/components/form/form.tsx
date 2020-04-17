@@ -20,7 +20,7 @@ export const Form = () => {
 
   return (
     <form onSubmit={onSubmit}>
-
+      <h3>react-hook-form example</h3>
       <div>
         <label htmlFor="firstName">First Name</label>
         <input name="firstName" ref={register({})} /> {/* register an input */}
